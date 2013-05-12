@@ -9,7 +9,7 @@ namespace TeachingKids
     class Program
     {
         static void Main(string[] args)
-        {
+        {   // Why did you leave this blank? It won't work without code...
         }
     }
 }
